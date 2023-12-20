@@ -1,0 +1,38 @@
+# Day 02
+
+- operators
+  - arithmetic
+    - addition `+`
+    - subtraction `-`
+    - multiplication `*`
+    - division `/`
+    - modulus `%`
+  - assigning
+    - `=`
+    - `+=`
+    - `-=`
+    - `*=`
+    - `/=`
+  - comparison
+    - `<`
+    - `>`
+    - `<=`
+    - `>=`
+    - `!=`
+    - `!==`
+    - `==`
+    - `===`
+  - logical
+    - AND `&&`
+    - OR `||`
+    - NOT `!`
+- hoisting
+- coercion
+- variable [scopes](https://www.freecodecamp.org/news/an-introduction-to-scope-in-javascript-cbd957022652)
+  - global scope
+  - local scope
+    - module
+    - function
+    - block
+    - lexical
+  - scope chain
